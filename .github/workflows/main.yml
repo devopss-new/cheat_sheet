@@ -1,14 +1,7 @@
 name: Main workflow
 
 on:
-  pull_request:
-    branches:
-      - bugfix
-    paths:
-      - .github/workflows/main.yml
   push:
-    branches:
-      - bugfix
     paths:
       - .github/workflows/main.yml
 
