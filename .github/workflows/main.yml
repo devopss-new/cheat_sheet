@@ -3,10 +3,10 @@ name: Main workflow
 on:
   pull_request:
     branches:
-      - main
+      - bugfix
   push:
     branches:
-      - main
+      - bugfix
 
 jobs:
   build:
