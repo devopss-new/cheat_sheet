@@ -1,0 +1,6 @@
+[submodule "repo-3"]
+	path = repo-3
+	url = https://github.com/devopss-new/repo-3.git
+[submodule "repo-1"]
+	path = repo-1
+	url = https://github.com/devopss-new/repo-1.git
